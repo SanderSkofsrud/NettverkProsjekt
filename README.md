@@ -66,6 +66,6 @@ The provided screenshots show the simulation results for various test cases. The
 
 ## Contributors
 
-- Contributor 1
-- Contributor 2
-- Contributor 3
+- [@sanderskofsrud](https://www.github.com/sanderskofsrud)
+- [@vegardjohnsen](https://github.com/VegardJohnsen)
+- [@eriktur](https://github.com/eriktur)
